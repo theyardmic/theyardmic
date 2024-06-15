@@ -6,10 +6,10 @@ Software Engineer
 
 A Software Engineer with an interest in Web and Blockchain applications.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  Based in Nairobi, Kenya
 * ✉️  You can contact me at [lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)
 * 🚀  I'm currently working on [An NFT Application](http://cuadro-nfts.netlify.app/)
-* 🧠  I'm learning Ruby on Rails
+* 🧠  Currently learning Ruby on Rails and L2 Blockchains
 * 🤝  I'm open to collaborating on Front End, Blockchain and Open Source Projects .
 
 ### Skills
