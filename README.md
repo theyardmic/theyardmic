@@ -11,6 +11,7 @@ A Software Engineer with an interest in Web and Blockchain applications.
 * 🚀 I'm currently working on <span style="text-decoration:none;">[An NFT Application](http://cuadro-nfts.netlify.app/)</span>
 * 🧠 Currently learning Ruby on Rails and L2 Blockchains
 * 🤝 I'm open to collaborating on Front End, Blockchain, and Open Source Projects.
+* 📝 <span style="text-decoration:none;">[Software Engineering Portfolio]()</span>
 * 📝 <span style="text-decoration:none;">[Technical Writing Portfolio](https://struckerwritingservices.journoportfolio.com/)</span>
 
 ### Skills
