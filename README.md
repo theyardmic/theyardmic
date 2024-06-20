@@ -6,11 +6,12 @@ Software Engineer
 
 A Software Engineer with an interest in Web and Blockchain applications.
 
-* 🌍  Based in Nairobi, Kenya
-* ✉️  You can contact me at [lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)
-* 🚀  I'm currently working on [An NFT Application](http://cuadro-nfts.netlify.app/)
-* 🧠  Currently learning Ruby on Rails and L2 Blockchains
-* 🤝  I'm open to collaborating on Front End, Blockchain and Open Source Projects .
+* 🌍 Based in Nairobi, Kenya
+* ✉️ You can contact me at <span style="text-decoration:none;">[lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)</span>
+* 🚀 I'm currently working on <span style="text-decoration:none;">[An NFT Application](http://cuadro-nfts.netlify.app/)</span>
+* 🧠 Currently learning Ruby on Rails and L2 Blockchains
+* 🤝 I'm open to collaborating on Front End, Blockchain, and Open Source Projects.
+* 📝 <span style="text-decoration:none;">[Technical Writing Portfolio](https://struckerwritingservices.journoportfolio.com/)</span>
 
 ### Skills
 <p align="left">
@@ -27,6 +28,7 @@ A Software Engineer with an interest in Web and Blockchain applications.
 
 <a href="https://github.com/theyardmic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theyardmic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Technical Writing Portfolio 
 
 </div>  
   
