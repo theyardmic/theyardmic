@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Lennox Matwere.
 ======================================================================================================================================
 
-Software Engineer
+Software Engineer, Blockchain Engineer, Web 3 Security Auditor.
 -----------------
 
-A Software Engineer with an interest in Web and Blockchain applications.
+A Software Engineer with a specialization in Website and Blockchain applications.
 
 * 🌍 Based in Nairobi, Kenya
 * ✉️ You can contact me at <span style="text-decoration:none;">[lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)</span>
