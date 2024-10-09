@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Lennox Matwere.
 ======================================================================================================================================
 
-Software Engineer, Blockchain Engineer, Web 3 Security Auditor.
+Software Engineer, Blockchain Engineer, Blockchain Security Auditor.
 -----------------
 
 A Software Engineer with a specialization in Website and Blockchain applications.
