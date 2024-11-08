@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Lennox Matwere.
 ======================================================================================================================================
 
-Software Engineer, Blockchain Engineer, Blockchain Security Auditor.
+Software Engineer,Team Lead Blockchain Engineer.
 -----------------
 
 A Software Engineer with a specialization in Website and Blockchain applications.
@@ -9,7 +9,7 @@ A Software Engineer with a specialization in Website and Blockchain applications
 * 🌍 Based in Nairobi, Kenya
 * ✉️ You can contact me at <span style="text-decoration:none;">[lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)</span>
 * 🚀 I'm currently working on <span style="text-decoration:none;">[An NFT Application](http://cuadro-nfts.netlify.app/)</span>
-* 🧠 Currently learning Rust and Auditing Blockchain Applications.
+* 🧠 Currently learning Rust and Haskell.
 * 🤝 I'm open to collaborating on Front End, Blockchain, and Open Source Projects.
 * 📝 <span style="text-decoration:none;">[Software Engineering Portfolio]()</span>
 * 📝 <span style="text-decoration:none;">[Technical Writing Portfolio](https://struckerwritingservices.journoportfolio.com/)</span>
