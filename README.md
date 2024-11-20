@@ -9,7 +9,6 @@ A Software Engineer with a specialization in Website and Blockchain applications
 * 🌍 Based in Nairobi, Kenya
 * ✉️ You can contact me at <span style="text-decoration:none;">[lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)</span>
 * 🚀 I'm currently working on  the development and integration of advanced blockchain technologies into the Uamuzi Foundation platform. My Key focus is on implementing decentralized features that enable autonomous, permissionless, and decentralized governance (DAO). 
-* 🧠 Currently learning Rust and Haskell.
 * 🤝 I'm open to collaborating on Front End, Blockchain, and Open Source Projects.
 * 📝 <span style="text-decoration:none;">[Software Engineering Portfolio]()</span>
 * 📝 <span style="text-decoration:none;">[Technical Writing Portfolio](https://struckerwritingservices.journoportfolio.com/)</span>
