@@ -1,7 +1,7 @@
--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Lennox Matwere.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Lennox Matwere.
 ======================================================================================================================================
 
-Software Engineer & Lead Blockchain Engineer at the [Uamuzi Foundation](https://uamuzi.org)
+A  Software & Lead Blockchain Engineer at the [Uamuzi Foundation](https://uamuzi.org)
 -----------------
 * 🌍 Based in Nairobi, Kenya
 * ✉️ You can contact me at <span style="text-decoration:none;">[lennoxmatwere@gmail.com](mailto:lennoxmatwere@gmail.com)</span>
